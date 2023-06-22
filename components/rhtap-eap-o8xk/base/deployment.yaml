@@ -23,7 +23,7 @@ spec:
         app.kubernetes.io/instance: rhtap-eap-o8xk
     spec:
       containers:
-      - image: quay.io/redhat-user-workloads-stage/phayes1-tenant/rhtap-eap/rhtap-eap-o8xk@sha256:c3d032b92a436f5f6ac2e4e169e1b9ae2d88f822d1c62d5e2cdcb8e5f99d2b0e
+      - image: quay.io/redhat-user-workloads-stage/phayes1-tenant/rhtap-eap/rhtap-eap-o8xk@sha256:12e3cc1c028dca53b99304b50e3578ad8347c39f45b92a5f58fa32d2d543f8db
         imagePullPolicy: Always
         name: container-image
         ports:
