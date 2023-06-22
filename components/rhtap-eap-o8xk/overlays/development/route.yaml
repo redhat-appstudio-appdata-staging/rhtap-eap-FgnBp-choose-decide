@@ -8,7 +8,7 @@ metadata:
     app.kubernetes.io/managed-by: kustomize
     app.kubernetes.io/name: rhtap-eap-o8xk
     app.kubernetes.io/part-of: rhtap-eap
-  name: rhtap-eap-o8xkp4p6
+  name: rhtap-eap-o8xkpkgw
 spec:
   port:
     targetPort: 8080
