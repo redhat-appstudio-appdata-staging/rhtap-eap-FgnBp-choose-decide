@@ -11,7 +11,7 @@ spec:
       creationTimestamp: null
     spec:
       containers:
-      - image: quay.io/redhat-user-workloads-stage/phayes1-tenant/rhtap-eap/rhtap-eap-o8xk@sha256:e2141ad2ee2304ccad41e85e8bd40ae34297f5950827d8719edd5162466527fc
+      - image: quay.io/redhat-user-workloads-stage/phayes1-tenant/rhtap-eap/rhtap-eap-o8xk@sha256:12e3cc1c028dca53b99304b50e3578ad8347c39f45b92a5f58fa32d2d543f8db
         name: container-image
         resources: {}
 status: {}
